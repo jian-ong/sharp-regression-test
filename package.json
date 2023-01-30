@@ -1,0 +1,17 @@
+{
+  "name": "sharp-regression-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "sharp-30.1": "npm:sharp@0.30.1",
+    "sharp-30.0": "npm:sharp@0.30.0",
+    "sharp-29.3": "npm:sharp@0.29.3"
+  }
+}
